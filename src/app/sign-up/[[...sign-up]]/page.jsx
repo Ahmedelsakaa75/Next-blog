@@ -7,5 +7,3 @@ export default function SignUpPage() {
   </div>
   </>
 }
-
-// 01:07:20 
