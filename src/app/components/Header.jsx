@@ -41,7 +41,7 @@ export default function Header() {
           pill
           onClick={()=> setTheme(theme === 'light' ? 'dark' : 'light')}
         >
-          {theme === 'light' ? <FaSun /> : <FaMoon />}
+          {theme === 'light' ? <FaMoon /> : <FaSun />}
           
         </Button>
               <SignedIn>
